@@ -1,4 +1,4 @@
-# LegallyFit by TEAM 7
+# LegallyFit 
 
 Are you tired of navigating the complexities of legal matters?
 Uncertain about where to find reliable initial legal guidance?
